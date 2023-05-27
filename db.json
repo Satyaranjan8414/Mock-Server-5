@@ -1,32 +1,6 @@
 {
   "freelancers": [
     {
-      "name": "vishal",
-      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
-      "email": "satya@gmail.com",
-      "password": "1234",
-      "profession": "Student",
-      "skills": [
-        "javscript"
-      ],
-      "hourly_rate": 400,
-      "isBooked": true,
-      "id": 4
-    },
-    {
-      "name": "satya",
-      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
-      "email": "satya@gmail.com",
-      "password": "1234",
-      "profession": "Graphic Designer",
-      "skills": [
-        "javscript"
-      ],
-      "hourly_rate": 400,
-      "isBooked": true,
-      "id": 4
-    },
-    {
       "name": "satya",
       "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
       "email": "satya@gmail.com",
@@ -49,9 +23,51 @@
         "saas",
         "css"
       ],
-      "hourly_rate": "100",
+      "hourly_rate": 100,
       "isBooked": true,
       "id": 5
+    },
+    {
+      "name": "rahul",
+      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
+      "email": "rahul@gmail.com",
+      "password": "1234",
+      "profession": "Student",
+      "skills": [
+        "Java"
+      ],
+      "hourly_rate": 800,
+      "isBooked": true,
+      "id": 6
+    },
+    {
+      "name": "maity",
+      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
+      "email": "maity@gmail.com",
+      "password": "4321",
+      "profession": "Web Developer",
+      "skills": [
+        "saas",
+        "css",
+        "java"
+      ],
+      "hourly_rate": 7000,
+      "isBooked": false,
+      "id": 7
+    },
+    {
+      "name": "vishal",
+      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
+      "email": "vishal@gmail.com",
+      "password": "123",
+      "profession": "Graphic Designer",
+      "skills": [
+        "UI",
+        "UX"
+      ],
+      "hourly_rate": 400,
+      "isBooked": false,
+      "id": 8
     }
   ]
 }

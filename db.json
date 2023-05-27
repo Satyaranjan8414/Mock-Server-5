@@ -1,18 +1,57 @@
 {
-	"dogs": [
-	  {
-		"name": "Golden Retrievers.",
-		"age": 2,
-		"gender": "Male",
-		"place": "Bengalore",
-		"id": 1
-	  },
-	  {
-		"name": "German Shepherd Dogs.",
-		"age": 4,
-		"gender": "Female",
-		"place": "Delhi",
-		"id": 2
-	  }
-	]
-  }
+  "freelancers": [
+    {
+      "name": "vishal",
+      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
+      "email": "satya@gmail.com",
+      "password": "1234",
+      "profession": "Student",
+      "skills": [
+        "javscript"
+      ],
+      "hourly_rate": 400,
+      "isBooked": true,
+      "id": 4
+    },
+    {
+      "name": "satya",
+      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
+      "email": "satya@gmail.com",
+      "password": "1234",
+      "profession": "Graphic Designer",
+      "skills": [
+        "javscript"
+      ],
+      "hourly_rate": 400,
+      "isBooked": true,
+      "id": 4
+    },
+    {
+      "name": "satya",
+      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
+      "email": "satya@gmail.com",
+      "password": "1234",
+      "profession": "Student",
+      "skills": [
+        "javscript"
+      ],
+      "hourly_rate": 400,
+      "isBooked": true,
+      "id": 4
+    },
+    {
+      "name": "santosh",
+      "profile_picture": "https://img.freepik.com/free-photo/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background_1258-65597.jpg",
+      "email": "Santosh@gmail.com",
+      "password": "123",
+      "profession": "Web Developer",
+      "skills": [
+        "saas",
+        "css"
+      ],
+      "hourly_rate": "100",
+      "isBooked": true,
+      "id": 5
+    }
+  ]
+}
